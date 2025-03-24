@@ -1,0 +1,11 @@
+
+/myapp
+  /static
+    /images
+      - image1.jpg
+      - image2.jpg
+  /templates
+    - index.html
+  - app.py
+  - requirements.txt
+  - Procfile

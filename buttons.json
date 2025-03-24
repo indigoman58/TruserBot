@@ -1,0 +1,12 @@
+import json
+
+def save_users(users):
+    with open("buttons.json", "w", encoding="utf-8") as f:
+        json.dump(users, f)
+
+def load_users():
+    try:
+        with open("buttons.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []

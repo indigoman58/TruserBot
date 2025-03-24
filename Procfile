@@ -1,0 +1,3 @@
+worker: python kenzy.py
+
+

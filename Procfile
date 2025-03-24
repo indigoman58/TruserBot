@@ -1,3 +1,3 @@
-worker: python kenzy.py
+worker: python trkenzy.py
 
 

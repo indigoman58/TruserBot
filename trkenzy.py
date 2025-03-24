@@ -13,7 +13,7 @@ from telegram.ext import (
 import os
 
 # Bot tokeninizi daxil edin
-TOKEN = "7261554455:AAFOKss9hSPsLAh1q2V4c02cOydXuaIMdlg"
+TOKEN = "8135040158:AAHyt__Ka1D2pYTNbYW6mkLCqSYGK_Ar9H4"
 ADMIN_ID = 5344901095
 
 # Qlobal dəyişənlər
